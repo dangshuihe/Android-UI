@@ -7,6 +7,7 @@ import java.util.Objects;
 
 public class Test {
 
+tr
 
     public static void main(String[] args) {
         String card = "6227007200120897790";
